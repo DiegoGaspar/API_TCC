@@ -1,4 +1,5 @@
-"Contatos": [
+{
+    "Contatos": [
     {
       "id": 1,
       "nome": "Diego",
@@ -24,4 +25,4 @@
       "nome": "Diego4",
       "email":"diego4@gmail.com"
     }
-]
+]}
